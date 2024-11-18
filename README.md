@@ -3,9 +3,12 @@
 This project automates the process of creating multiple Git commits over a specified date range. It generates a single file with commit messages, commits the changes, and pushes them to a remote repository.
 
 
-<div align="center" style="max-width: 100%; overflow: hidden;">
-    <img src="./.github/ex.png" alt="Example Image" style="max-width: 100%; height: auto; border-radius: 10px;">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshokShau/github-activity-generator/master/.github/ex.png" 
+       alt="GitHub Activity Generator Example" 
+       style="max-width: 80%; height: auto; border-radius: 8px;">
+</p>
+<p align="center"><em>Example output from the GitHub Activity Generator</em></p>
 
 
 ## Disclaimer
