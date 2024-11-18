@@ -2,6 +2,12 @@
 
 This project automates the process of creating multiple Git commits over a specified date range. It generates a single file with commit messages, commits the changes, and pushes them to a remote repository.
 
+
+<div align="center" style="max-width: 100%; overflow: hidden;">
+    <img src="./.github/ex.png" alt="Example Image" style="max-width: 100%; height: auto; border-radius: 10px;">
+</div>
+
+
 ## Disclaimer
 
 This project is intended for educational and demonstration purposes only. The automated creation of multiple Git commits may not reflect best practices in version control and should be used responsibly. Users are encouraged to understand the implications of mass commits in a collaborative environment and to adapt the script to fit their specific needs. The author, AshokShau, is not responsible for any unintended consequences resulting from the use of this tool.
